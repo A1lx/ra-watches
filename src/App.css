@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+}
+
+.input-box {
+  margin-right: 10px;
+}
+
+.watch-list-box {
+  margin-top: 10px;
+}
+
+.watch-list-item {
+  margin-right: 10px;
+}
